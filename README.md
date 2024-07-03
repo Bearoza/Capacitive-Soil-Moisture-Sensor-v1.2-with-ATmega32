@@ -7,5 +7,5 @@ Kontributor: Muhammad Fauzan Ridho, S.T., M.T. (https://github.com/Zeonsilt06)
 
 Referensi : https://www.electronicwings.com/avr-atmega/soil-moisture-sensor-interfacing-with-atmega16-32
 
-
+Project PRAKTIKUM SISTEM BERBASIS MIKROKONTROLER
 Anggota Kelompok: 1. Bearoza 2. Bella Yuliani 3. Ramanda Bagaskara 4. Ferdianto 5. Andi
